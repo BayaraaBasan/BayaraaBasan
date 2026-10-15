@@ -29,7 +29,7 @@ A collaborative learning network where people learn, teach, and grow together.
 ---
 
 ### 📊 Gradelytic
-An AI-powered system that helps teachers save time and focus on learning.
+An AI-powered system that helps teachers save time and focus on teaching.
 
 - automated grading  
 - feedback loops  
@@ -59,7 +59,6 @@ I write about systems, education, and building meaningful products.
 ## 📫 Reach me
 
 - Email: hello@bayaraa.com  
-- X: https://x.com/bayaraa_basan  
 - Website: https://bayaraa.com  
 
 ---
